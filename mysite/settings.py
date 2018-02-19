@@ -25,7 +25,7 @@ SECRET_KEY = 'mn+@_p#+izajf+iectfcl_roqw7s+t%gs-p5tmqkws)uctz*^a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'plaville.pythonanywhere.com']
 
 
 # Application definition
